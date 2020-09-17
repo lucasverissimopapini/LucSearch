@@ -12,5 +12,8 @@
         "pagination",
         "styles",
         "subtitle"
+    ],
+    "cSpell.ignoreWords": [
+        "helpers"
     ]
 }
