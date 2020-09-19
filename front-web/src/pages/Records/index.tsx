@@ -1,6 +1,5 @@
 import Axios from 'axios';
 import React, { useEffect, useState } from 'react';
-import { Link } from 'react-router-dom';
 import Filters from '../../components/Filters';
 import { formatDate } from './helpers';
 import Pagination from './Pagination';
