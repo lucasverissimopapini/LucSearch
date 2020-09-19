@@ -39,6 +39,8 @@ const styles = StyleSheet.create({
         marginTop: '15%',
         backgroundColor: '#0B1F34',
         alignItems: 'center',
+        // paddingRight: '50%',
+        // paddingLeft: '50%',
     },
     gamerImage: {
         width: 309,
